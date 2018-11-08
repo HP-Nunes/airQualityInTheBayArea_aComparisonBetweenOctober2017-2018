@@ -1,0 +1,829 @@
+,zip,AQI,Category,DateObserved,HourObserved,Latitude,LocalTimeZone,Longitude,ParameterName,ReportingArea,StateCode
+0,95015,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1,95015,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+2,94505,45,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.9699,PST,-121.3067,OZONE,Stockton,CA
+3,94505,77,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.9699,PST,-121.3067,PM2.5,Stockton,CA
+4,95486,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+5,95486,80,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+6,94524,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+7,94524,155,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+8,94542,49,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+9,94542,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-13 ,0,37.55,PST,-122.03,PM2.5,Fremont,CA
+10,94506,39,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+11,94506,91,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+12,94547,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+13,94547,41,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+14,95377,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.9699,PST,-121.3067,OZONE,Stockton,CA
+15,95377,72,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.9699,PST,-121.3067,PM2.5,Stockton,CA
+16,94562,48,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+17,94562,167,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-09 ,0,38.33,PST,-122.28,PM2.5,Napa,CA
+18,95445,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,39.4117,PST,-123.3526,OZONE,Mendocino County,CA
+19,95445,161,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-10 ,0,39.4117,PST,-123.3526,PM2.5,Mendocino County,CA
+20,95445,62,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,39.4117,PST,-123.3526,PM10,Mendocino County,CA
+21,95154,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+22,95154,114,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+23,95406,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+24,95406,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+25,94044,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+26,94044,98,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+27,94014,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+28,94014,69,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+29,94603,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+30,94603,53,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+31,95430,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+32,95430,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+33,94533,44,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+34,94533,97,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,38.25,PST,-122.04,PM2.5,Fairfield,CA
+35,94303,35,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+36,94020,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+37,94020,126,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+38,95136,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+39,95136,99,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+40,95158,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+41,95158,136,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+42,94089,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+43,94089,84,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+44,94582,74,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+45,94582,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.68,PST,-121.77,PM2.5,Livermore,CA
+46,94561,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+47,94561,44,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.25,PST,-122.04,PM2.5,Fairfield,CA
+48,95023,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,36.8442,PST,-121.361,OZONE,Hollister,CA
+49,95023,27,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,36.8442,PST,-121.361,PM2.5,Hollister,CA
+50,95023,59,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,36.8442,PST,-121.361,PM10,Hollister,CA
+51,94111,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+52,94111,127,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+53,95173,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+54,95173,114,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+55,95120,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+56,95120,99,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+57,94620,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+58,94620,159,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-13 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+59,95616,34,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.5448,PST,-121.7411,OZONE,Davis,CA
+60,95616,29,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.5448,PST,-121.7411,PM2.5,Davis,CA
+61,94549,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+62,94549,55,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+63,94931,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+64,94931,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+65,95127,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+66,95127,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+67,94701,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+68,94701,124,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+69,94110,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+70,94110,136,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-12 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+71,94579,49,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+72,94579,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-13 ,0,37.55,PST,-122.03,PM2.5,Fremont,CA
+73,94121,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+74,94121,69,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+75,95013,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+76,95013,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+77,94703,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+78,94703,53,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+79,94557,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+80,94612,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+81,94612,124,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+82,94035,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+83,94035,154,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.55,PST,-122.03,PM2.5,Fremont,CA
+84,94615,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+85,94615,159,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-13 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+86,94083,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+87,94083,69,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+88,95446,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+89,95446,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+90,94114,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+91,94114,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+92,94559,48,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+93,94559,167,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-09 ,0,38.33,PST,-122.28,PM2.5,Napa,CA
+94,94706,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+95,94706,116,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+96,94525,49,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+97,94525,169,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-11 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+98,95696,36,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+99,95696,52,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,38.3525,PST,-121.9617,PM2.5,Vacaville,CA
+100,95119,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+101,95119,84,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+102,94946,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+103,94946,41,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+104,94541,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+105,94541,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.55,PST,-122.03,PM2.5,Fremont,CA
+106,94042,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+107,94708,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+108,94708,116,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+109,94621,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+110,94621,124,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+111,94578,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+112,94578,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+113,95037,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+114,95037,136,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+115,94920,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+116,94920,80,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+117,95421,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+118,95421,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+119,95133,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+120,95133,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+121,94599,48,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+122,94599,167,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-09 ,0,38.33,PST,-122.28,PM2.5,Napa,CA
+123,94019,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+124,94019,127,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+125,94611,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+126,94611,124,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+127,94521,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+128,94521,155,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+129,94563,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+130,94563,159,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-13 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+131,94123,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+132,94123,69,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+133,94551,74,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+134,94551,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.68,PST,-121.77,PM2.5,Livermore,CA
+135,94501,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+136,94501,53,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+137,94589,44,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+138,94589,97,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,38.25,PST,-122.04,PM2.5,Fairfield,CA
+139,95117,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+140,95117,57,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+141,95131,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+142,95131,114,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+143,94927,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+144,94927,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+145,95404,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+146,95404,96,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+147,95046,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+148,95046,84,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+149,94569,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+150,94569,55,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+151,94576,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+152,94576,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+153,94040,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+154,94948,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+155,94948,156,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-10 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+156,95055,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+157,95055,114,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+158,94108,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+159,94108,136,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-12 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+160,94129,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+161,94129,98,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+162,95151,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+163,95151,84,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+164,94613,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+165,94613,53,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+166,94952,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+167,94952,161,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-09 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+168,94146,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+169,94146,127,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+170,94015,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+171,94015,78,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+172,94974,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+173,94974,151,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+174,95118,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+175,95118,136,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+176,94026,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+177,94026,78,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+178,95442,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+179,95442,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+180,94543,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+181,94543,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.55,PST,-122.03,PM2.5,Fremont,CA
+182,95132,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+183,95132,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+184,94304,35,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+185,94564,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+186,94564,87,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+187,94552,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+188,94552,96,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.68,PST,-121.77,PM2.5,Livermore,CA
+189,94940,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+190,94940,80,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+191,94573,153,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-15 ,0,38.33,PST,-122.28,PM2.5,Napa,CA
+192,94707,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+193,94707,53,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+194,94922,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+195,94922,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-09 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+196,94606,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+197,94606,116,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+198,94925,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+199,94925,87,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+200,94560,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+201,94560,154,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.55,PST,-122.03,PM2.5,Fremont,CA
+202,95148,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+203,95148,136,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+204,95436,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+205,95436,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+206,95052,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+207,95052,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+208,94591,44,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+209,94591,97,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,38.25,PST,-122.04,PM2.5,Fairfield,CA
+210,94803,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+211,94803,116,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+212,95160,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+213,95160,114,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+214,94502,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+215,94502,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+216,94966,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+217,94966,111,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+218,94590,41,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+219,94590,63,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,38.25,PST,-122.04,PM2.5,Fairfield,CA
+220,95108,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+221,95108,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+222,94545,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+223,94545,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.55,PST,-122.03,PM2.5,Fremont,CA
+224,94610,41,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+225,94610,87,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+226,94302,35,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+227,94570,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+228,94570,124,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+229,94976,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+230,94976,151,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+231,94574,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+232,94574,96,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+233,94002,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+234,94002,78,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+235,95036,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+236,95036,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+237,94556,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+238,94556,53,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+239,94028,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+240,94125,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+241,94125,127,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+242,94109,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+243,94109,78,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+244,95407,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+245,95407,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+246,94937,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+247,94937,111,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+248,94550,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+249,94550,36,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.68,PST,-121.77,PM2.5,Livermore,CA
+250,95020,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+251,95020,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+252,94598,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+253,94598,55,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+254,94957,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+255,94957,161,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-09 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+256,94023,35,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+257,94539,34,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+258,94539,126,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.55,PST,-122.03,PM2.5,Fremont,CA
+259,94565,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+260,94565,155,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+261,95625,36,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+262,95625,52,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,38.3525,PST,-121.9617,PM2.5,Vacaville,CA
+263,94595,39,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+264,94595,91,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+265,94553,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+266,94553,55,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+267,94402,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+268,94402,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+269,94592,44,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+270,94592,97,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,38.25,PST,-122.04,PM2.5,Fairfield,CA
+271,94117,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+272,94117,127,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+273,94609,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+274,94609,124,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+275,95116,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+276,95116,99,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+277,94941,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+278,94941,111,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+279,94133,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+280,94133,69,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+281,94585,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+282,94585,44,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.25,PST,-122.04,PM2.5,Fairfield,CA
+283,94977,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+284,94977,41,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+285,94820,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+286,94820,161,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-09 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+287,94572,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+288,94572,81,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+289,94928,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+290,94928,80,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+291,95152,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+292,95152,99,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+293,94604,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+294,94604,159,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-13 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+295,94536,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+296,94536,78,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.55,PST,-122.03,PM2.5,Fremont,CA
+297,94112,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+298,94112,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+299,95688,42,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+300,95688,19,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.3525,PST,-121.9617,PM2.5,Vacaville,CA
+301,95112,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+302,95112,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+303,95409,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+304,95409,165,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-10 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+305,94505,35,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.9699,PST,-121.3067,OZONE,Stockton,CA
+306,94505,116,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.9699,PST,-121.3067,PM2.5,Stockton,CA
+307,95009,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+308,95009,99,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+309,94702,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+310,94702,159,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-13 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+311,95054,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+312,95054,84,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+313,94942,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+314,94942,41,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+315,94041,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+316,94041,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+317,94515,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+318,94515,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-09 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+319,95694,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+320,95694,196,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-10 ,0,38.3525,PST,-121.9617,PM2.5,Vacaville,CA
+321,94913,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+322,94913,87,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+323,95103,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+324,95103,99,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+325,95492,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+326,95492,96,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+327,94596,39,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+328,94596,91,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+329,95157,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+330,95157,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+331,94914,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+332,94914,41,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+333,94119,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+334,94119,100,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+335,94807,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+336,94807,156,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-10 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+337,94964,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+338,94964,87,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+339,94508,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+340,94508,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+341,95465,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+342,95465,96,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+343,95441,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+344,95441,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+345,94102,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+346,94102,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+347,94066,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+348,94066,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+349,95101,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+350,95101,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+351,94115,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+352,94115,127,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+353,94947,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+354,94947,87,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+355,95156,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+356,95156,99,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+357,94070,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+358,94070,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-13 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+359,94088,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+360,94088,84,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+361,94518,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+362,94518,55,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+363,94567,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+364,94567,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+365,95106,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+366,95106,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+367,94555,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+368,95690,32,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.4086,PST,-121.3733,OZONE,Elk Grove,CA
+369,95690,69,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,38.4086,PST,-121.3733,PM2.5,Elk Grove,CA
+370,94520,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+371,94520,153,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-13 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+372,95687,40,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+373,95687,11,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.3525,PST,-121.9617,PM2.5,Vacaville,CA
+374,94018,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+375,94018,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+376,94401,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+377,94401,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+378,94601,41,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+379,94601,87,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+380,95002,34,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+381,95002,126,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.55,PST,-122.03,PM2.5,Fremont,CA
+382,94624,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+383,94624,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+384,94522,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+385,94522,153,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-13 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+386,94164,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+387,94164,69,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+388,94904,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+389,94904,41,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+390,94540,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+391,94540,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.55,PST,-122.03,PM2.5,Fremont,CA
+392,94662,41,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+393,94662,87,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+394,94122,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+395,94122,127,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+396,95439,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+397,95439,80,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+398,94132,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+399,94132,136,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-12 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+400,95030,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+401,95030,136,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+402,95056,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+403,95056,84,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+404,94134,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+405,94134,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+406,94973,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+407,94973,41,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+408,94124,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+409,94124,100,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+410,94105,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+411,94105,78,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+412,94965,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+413,94965,151,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+414,94104,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+415,94104,98,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+416,95403,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+417,95403,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+418,94306,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+419,94306,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+420,94062,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+421,94062,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+422,95476,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+423,95476,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-09 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+424,94550,49,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+425,94550,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.68,PST,-121.77,PM2.5,Livermore,CA
+426,94085,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+427,94085,114,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+428,94087,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+429,94087,99,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+430,95402,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+431,95402,96,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+432,94960,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+433,94960,80,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+434,95124,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+435,95124,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+436,94515,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+437,94515,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+438,95448,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+439,95448,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-09 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+440,94710,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+441,94710,116,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+442,95123,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+443,95123,114,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+444,95121,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+445,95121,99,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+446,95011,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+447,95011,136,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+448,95129,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+449,95129,84,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+450,94949,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+451,94949,41,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+452,94025,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+453,94025,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+454,94010,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+455,94507,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+456,94507,81,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+457,94588,43,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+458,94588,106,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.68,PST,-121.77,PM2.5,Livermore,CA
+459,94022,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+460,94022,99,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+461,94618,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+462,94618,159,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-13 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+463,94404,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+464,94404,78,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+465,94158,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+466,94158,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+467,95391,74,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+468,95391,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.68,PST,-121.77,PM2.5,Livermore,CA
+469,95452,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+470,95452,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-09 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+471,94586,49,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+472,94586,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.68,PST,-121.77,PM2.5,Livermore,CA
+473,94945,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+474,94945,87,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+475,94805,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+476,94805,159,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-13 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+477,94666,37,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+478,94666,84,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+479,94706,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+480,94706,53,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+481,94903,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+482,94903,41,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+483,94597,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+484,94597,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+485,94580,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+486,94924,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+487,94924,87,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+488,95487,44,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+489,95487,175,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,38.33,PST,-122.28,PM2.5,Napa,CA
+490,94020,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+491,94020,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-13 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+492,94912,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+493,94912,80,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+494,94970,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+495,94970,41,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+496,94930,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+497,94930,41,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+498,94065,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+499,95033,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+500,95033,57,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+501,94519,49,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+502,94519,169,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-11 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+503,94574,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+504,94574,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+505,94566,41,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+506,94566,73,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.68,PST,-121.77,PM2.5,Livermore,CA
+507,94305,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+508,94305,78,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+509,94503,153,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-15 ,0,38.33,PST,-122.28,PM2.5,Napa,CA
+510,95161,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+511,95161,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+512,94575,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+513,94575,116,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+514,94147,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+515,94147,78,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+516,95125,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+517,95125,99,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+518,94534,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+519,94534,175,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-13 ,0,38.25,PST,-122.04,PM2.5,Fairfield,CA
+520,95051,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+521,95051,84,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+522,94011,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+523,94011,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+524,94602,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+525,94602,53,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+526,95014,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+527,95014,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+528,95109,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+529,95109,57,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+530,95122,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+531,95122,114,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+532,94587,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+533,94587,154,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.55,PST,-122.03,PM2.5,Fremont,CA
+534,94938,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+535,94938,111,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+536,95191,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+537,95191,84,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+538,94503,153,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-15 ,0,38.33,PST,-122.28,PM2.5,Napa,CA
+539,94038,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+540,94038,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+541,94103,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+542,94103,100,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+543,94143,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+544,94143,127,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+545,94950,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+546,94950,87,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+547,94551,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+548,94551,96,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.68,PST,-121.77,PM2.5,Livermore,CA
+549,94118,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+550,94118,98,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+551,95140,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+552,95140,84,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+553,95164,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+554,95164,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+555,95113,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+556,95113,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+557,94116,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+558,94116,100,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+559,94591,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+560,94591,160,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-10 ,0,38.25,PST,-122.04,PM2.5,Fairfield,CA
+561,95050,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+562,95050,114,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+563,94704,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+564,94704,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+565,94080,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+566,94080,98,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+567,94017,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+568,94017,69,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+569,94801,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+570,94801,41,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+571,95035,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+572,95035,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+573,95401,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+574,95401,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-09 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+575,95419,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+576,95419,165,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-10 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+577,94024,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+578,94024,114,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+579,94512,51,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+580,94512,164,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,38.25,PST,-122.04,PM2.5,Fairfield,CA
+581,94583,41,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+582,94583,73,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.68,PST,-121.77,PM2.5,Livermore,CA
+583,95031,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+584,95031,84,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+585,95138,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+586,95138,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+587,94661,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+588,94661,53,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+589,95462,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+590,95462,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-09 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+591,94608,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+592,94608,116,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+593,94850,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+594,94850,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+595,94517,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+596,94517,153,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-13 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+597,94188,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+598,94188,69,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+599,94037,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+600,94037,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+601,94061,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+602,94061,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+603,95126,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+604,95126,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+605,94127,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+606,94127,127,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+607,95444,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+608,95444,80,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+609,94301,47,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+610,94301,154,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+611,95473,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+612,95473,96,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+613,94972,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+614,94972,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+615,94530,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+616,94530,53,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+617,94720,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+618,94720,53,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+619,94952,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+620,94952,161,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-09 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+621,94030,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+622,94030,127,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+623,94709,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+624,94709,124,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+625,94516,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+626,94516,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+627,94497,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+628,94497,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-13 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+629,95172,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+630,95172,84,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+631,95150,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+632,95150,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+633,94014,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+634,94014,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+635,94107,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+636,94107,100,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+637,94544,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+638,94537,34,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+639,94537,126,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.55,PST,-122.03,PM2.5,Fremont,CA
+640,94923,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+641,94923,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+642,94141,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+643,94141,98,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+644,95472,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+645,95472,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+646,94134,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+647,94134,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+648,94933,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+649,94933,41,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+650,94060,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+651,94956,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+652,94956,156,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-10 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+653,94588,43,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+654,94588,106,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.68,PST,-121.77,PM2.5,Livermore,CA
+655,94039,47,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+656,94039,154,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+657,94568,41,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+658,94568,73,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.68,PST,-121.77,PM2.5,Livermore,CA
+659,94558,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+660,94558,109,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-14 ,0,38.33,PST,-122.28,PM2.5,Napa,CA
+661,94708,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+662,94708,53,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+663,95128,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+664,95128,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+665,94140,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+666,94140,100,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+667,95618,51,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.5448,PST,-121.7411,OZONE,Davis,CA
+668,95618,153,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-10 ,0,38.5448,PST,-121.7411,PM2.5,Davis,CA
+669,94705,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+670,94705,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+671,94929,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+672,94929,111,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+673,95110,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+674,95110,84,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+675,95461,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+676,95461,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+677,94531,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+678,94531,55,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+679,94074,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+680,94510,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+681,94510,160,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-10 ,0,38.25,PST,-122.04,PM2.5,Fairfield,CA
+682,95476,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+683,95476,80,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+684,94558,44,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+685,94558,175,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,38.33,PST,-122.28,PM2.5,Napa,CA
+686,95139,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+687,95139,136,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+688,94126,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+689,94126,69,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+690,95155,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+691,95155,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+692,94546,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+693,94546,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.55,PST,-122.03,PM2.5,Fremont,CA
+694,94523,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+695,94523,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+696,95071,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+697,95071,57,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+698,94971,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+699,94971,87,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+700,94131,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+701,94131,136,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-12 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+702,94021,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+703,94021,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-13 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+704,95620,40,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+705,95620,11,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.3525,PST,-121.9617,PM2.5,Vacaville,CA
+706,94043,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+707,94043,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+708,94528,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+709,94528,55,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+710,95035,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+711,95035,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+712,94558,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+713,94558,221,"{'Number': 5, 'Name': 'Very Unhealthy'}",2017-10-10 ,0,38.33,PST,-122.28,PM2.5,Napa,CA
+714,94159,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+715,94159,78,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+716,94128,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+717,94128,136,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-12 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+718,94951,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+719,94951,96,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+720,94619,37,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+721,94619,84,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+722,95153,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+723,95153,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+724,95130,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+725,95130,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+726,94112,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+727,94112,100,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+728,94130,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+729,94130,127,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+730,94005,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+731,94005,78,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.75,PST,-122.43,PM2.5,San Francisco,CA
+732,94901,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+733,94901,111,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+734,94939,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+735,94939,80,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+736,94514,74,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+737,94514,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.68,PST,-121.77,PM2.5,Livermore,CA
+738,94804,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+739,94804,161,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-09 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+740,94526,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+741,94526,81,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.03,PM2.5,Concord,CA
+742,94064,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+743,94064,126,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+744,94403,47,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+745,94403,154,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+746,95192,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+747,95192,136,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+748,94707,37,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+749,94707,84,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+750,94548,56,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.2183,PST,-121.77,PM2.5,Rio Vista,CA
+751,94535,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+752,94535,44,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.25,PST,-122.04,PM2.5,Fairfield,CA
+753,95135,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+754,95135,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+755,94581,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+756,94581,221,"{'Number': 5, 'Name': 'Very Unhealthy'}",2017-10-10 ,0,38.33,PST,-122.28,PM2.5,Napa,CA
+757,95159,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+758,95159,114,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+759,94514,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+760,94514,96,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.68,PST,-121.77,PM2.5,Livermore,CA
+761,95141,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+762,95141,136,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+763,94954,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+764,94954,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+765,94086,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+766,94086,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+767,95471,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+768,95471,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+769,94577,41,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+770,94577,87,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+771,94614,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+772,94614,116,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+773,94915,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+774,94915,87,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+775,94611,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+776,94611,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+777,95134,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+778,95134,136,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+779,94605,37,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+780,94605,84,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+781,95070,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+782,95070,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+783,94063,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+784,94063,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+785,95170,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+786,95170,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+787,94623,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+788,94623,116,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-10 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+789,95461,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+790,95461,80,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+791,94028,47,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+792,94028,154,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+793,94806,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+794,94806,111,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+795,94513,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+796,94513,36,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.68,PST,-121.77,PM2.5,Livermore,CA
+797,94978,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+798,94978,41,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+799,95111,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+800,95111,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+801,95008,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+802,95008,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+803,94511,75,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.2183,PST,-121.77,PM2.5,Rio Vista,CA
+804,94607,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+805,94607,124,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-11 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+806,94802,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+807,94802,151,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+808,94979,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+809,94979,111,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+810,94963,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+811,94963,80,"{'Number': 2, 'Name': 'Moderate'}",2017-10-14 ,0,37.97,PST,-122.52,PM2.5,San Rafael,CA
+812,94568,74,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+813,94568,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.68,PST,-121.77,PM2.5,Livermore,CA
+814,95405,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+815,95405,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-09 ,0,38.45,PST,-122.7,PM2.5,Santa Rosa,CA
+816,94303,35,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+817,94509,47,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+818,94509,156,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-11 ,0,38.25,PST,-122.04,PM2.5,Fairfield,CA
+819,94712,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+820,94712,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-12 ,0,37.8,PST,-122.27,PM2.5,Oakland,CA
+821,94538,49,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+822,94538,152,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-13 ,0,37.55,PST,-122.03,PM2.5,Fremont,CA
+823,94027,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+824,94027,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.48,PST,-122.22,PM2.5,Redwood City,CA
+825,95032,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+826,95032,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.33,PST,-121.9,PM2.5,San Jose,CA
+827,94571,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,38.2183,PST,-121.77,PM2.5,Rio Vista,CA
